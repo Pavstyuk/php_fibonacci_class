@@ -1,4 +1,4 @@
-**Small Simple Class on PHP for Generating Fibonacci Series**
+**Small Simple PHP Class for Generating Fibonacci Series**
 
 ```
 require_once "class/Fibonacci.php";
